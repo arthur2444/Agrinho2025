@@ -11,5 +11,5 @@ Este projeto em JavaScript, usando a biblioteca p5.js, cria uma cena animada com
 - **Grama e Flores** 🌿🌸: O cenário é decorado com vegetação que dá um toque natural.
 
 ## Credítos
-Aluno da escola cívico militar da vila john kenedy
+Aluno Arthur Giebmeyer da escola cívico militar da vila john kenedy
 
